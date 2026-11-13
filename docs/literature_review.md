@@ -46,9 +46,9 @@ The objective is to understand existing research, identify its limitations and e
 - **Relevance:** Helps guide BharatNLP's reliability-aware fusion and uncertainty estimation.
 - **Reference:** https://doi.org/10.1109/TPAMI.2023.3325770
 
-### Paper 5: SentiGrad – A New Hindi-English Code Mixed Sentiment Analysis Dataset with Preliminary Results and Open Challenges
+### Paper 5: SentiGrad – A New Hindi-English Code Mixed Sentiment Analysis Dataset with Preliminary Results and open challenges
 - **Authors:** Ghosh and Sengupta.
-- **Year:** 2024
+- **Year:** 2024 
 - **Research area:** Hindi-English code-mixed sentiment analysis.
 - **Approach:** Introduces a dataset of comments from Indian learners, annotated as positive, negative and neutral.
 - **Relevance:** A potentially useful India-focused resource for exploring code-mixed language challenges.
