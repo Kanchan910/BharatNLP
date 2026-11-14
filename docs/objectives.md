@@ -52,7 +52,7 @@ To develop an India-focused Multimodal Emotion Intelligence Platform that analys
 ### G. Evaluation and Deployment
 - Evaluate individual models using suitable classification metrics.
 - Compare baseline and adaptive fusion approaches.
-- Perform robustness and missing-modality experiments.
+- Perform robustness and missing-modality experiment.
 - Test application performance and latency.
 - Deploy the complete application.
 - Maintain project documentation and source code on GitHub.
