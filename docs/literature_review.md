@@ -125,7 +125,7 @@ The objective is to study existing research, understand its methodologies and li
 
 ---
 
-## 4. Research Gaps and Challenges
+## 4. Research Gap and Challenges
 
 Based on the reviewed research, the following areas deserve further investigation:
 
